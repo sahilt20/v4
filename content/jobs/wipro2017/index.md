@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2018-04-01'
+title: 'Senior Project Engineer'
+company: 'Wipro Technologies'
+location: 'Greater Noida, India'
+range: 'April 2017 - Sep 2020'
+url: 'https://www.wipro.com/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects

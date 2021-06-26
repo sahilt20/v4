@@ -1,10 +1,9 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2015-06-21'
+title: 'Project Engineer'
+company: 'Wipro Technologies'
+location: 'Gurgaon, IND'
+range: 'Jun 2015 - April 2017'
 ---
 
 - Developed and shipped highly interactive web applications for Apple Music using Ember.js

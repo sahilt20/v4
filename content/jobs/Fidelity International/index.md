@@ -1,10 +1,10 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2020-10-16'
+title: 'Senior Analyst Programmer'
+company: 'Fidelity International'
+location: 'Gurgaon, India'
+range: 'October 2020 - Present'
+url: 'https://www.fidelityinternational.com/'
 ---
 
 - Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
